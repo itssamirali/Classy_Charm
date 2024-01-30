@@ -1,0 +1,25 @@
+/*=================================GOOGLE FONTS====================================*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=League+Spartan:wght@400;500;600;700&display=swap');
+
+/*=================================VARIABLE CSS===================================*/
+:root {
+    --header-height: 4rem;
+
+    /*======== Colors ============*/
+    /*===========Color Mode HSL (Hue, Saturation, Lightness) ======*/
+    --first-color: hsl(176, 88%, 27%);
+    --first-color-alt: hsl(129, 44%, 94%);
+    --second-color: hsl(34, 94%, 87%);
+    --title-color: hsl(0, 0%, 13%);
+    --text-color: hsl(154, 13%, 32%);
+    --text-color-light: hsl(60, 1%, 56%);
+    --body-color: hsl(0, 0%, 100%);
+    --container-color: hsl(0, 0%, 93%);
+    --border-color: hsl(129, 36%, 85%);
+    --border-color-alt: hsl(113, 15%, 90%);
+
+    /*================= Font & Typography =================*/
+    --body-font: 'Lato', sans-serif;
+    --second-font: 'League Spartan', sans-serif;
+
+}
